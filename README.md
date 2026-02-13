@@ -1,1 +1,1 @@
-# Amazon_backend
+FREEDIUM = "https://freedium-mirror.cfd/https://medium.com/@rajeshpachaikani/using-alembic-with-fastapi-and-postgresql-no-bullshit-guide-b564ae89f4be" # Amazon_backend
